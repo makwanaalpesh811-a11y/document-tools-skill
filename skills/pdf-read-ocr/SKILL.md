@@ -1,6 +1,18 @@
 ---
 name: pdf-read-ocr
+description: "PDF Read & OCR (Termux Android)"
+version: 1.0.0
+author: Alpesh Makwana
+license: MIT
+platforms: [linux]
+---
+
+name: pdf-read-ocr
 description: Read PDFs on Termux with OCR fallback for scanned docs.
+version: 1.0.0
+author: Alpesh Makwana
+license: MIT
+platforms: [linux, macos]
 ---
 
 # PDF Read & OCR (Termux Android)
